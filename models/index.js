@@ -1,7 +1,5 @@
-const { ContactModel } = require('./contact-model');
-const { UserModel } = require('./user-model');
+// const modelA = require('./model-path');
 
-module.exports = {
-  ContactModel,
-  UserModel,
-};
+// module.exports = {
+//   modelA,
+// }

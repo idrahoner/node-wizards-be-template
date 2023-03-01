@@ -1,7 +1,5 @@
-const contactsService = require('./contacts-service');
-const usersService = require('./users-service');
+// const serviceA = require('./services-path');
 
-module.exports = {
-  contactsService,
-  usersService,
-};
+// module.exports = {
+//   serviceA,
+// }

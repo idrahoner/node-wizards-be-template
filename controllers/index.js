@@ -1,7 +1,5 @@
-const contactsCtrl = require('./contacts-ctrl');
-const usersCtrl = require('./users-ctrl');
+// const controllerA = require('./controller-path');
 
-module.exports = {
-  contactsCtrl,
-  usersCtrl,
-};
+// module.exports = {
+//   controllerA,
+// };
